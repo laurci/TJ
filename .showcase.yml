@@ -1,0 +1,7 @@
+size: small
+description: |
+  This project is a minimal JVM written in Typescript. It runs both on Node and in the browser. It implements a total of 3 opcodes and it can run hello world, but that's about it.
+
+  I built this project mainly because I wanted to learn about the format of .`class` files and see if I can write a parser for it. The execution part was just a bonus.
+tags:
+  - JVM
