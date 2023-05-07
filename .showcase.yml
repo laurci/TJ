@@ -1,7 +1,9 @@
 size: small
 description: |
-  This project is a minimal JVM written in Typescript. It runs both on Node and in the browser. It implements a total of 3 opcodes and it can run hello world, but that's about it.
+  This is a small and clean Java Virtual Machine implemented in Typescript that can run on Node and in the browser. It implements 3 opcodes that allow it to run simple programs like "hello world". However, it can be further developed to run more complex programs.
 
-  I built this project mainly because I wanted to learn about the format of .`class` files and see if I can write a parser for it. The execution part was just a bonus.
+  A key motivation behind this project was to parse `.class` files, which helped me gain a better understanding of the JVM and Java bytecode processing. I also gained experience in writing parsers and interpreters, which improved my overall software development skills.
+
+  In summary, this project is an excellent resource for anyone interested in learning about the JVM, its inner workings, and experimenting with its capabilities, whether they are a beginner or an experienced developer.
 tags:
   - JVM
